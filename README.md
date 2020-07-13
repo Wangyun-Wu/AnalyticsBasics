@@ -7,6 +7,6 @@ This repository records all data visualization projects.
   data source: LinkedIn TopSkills 2016)* <br><br>
 
 ### **Project 1: Build Data Dashboard** <br>
-  **File Uploaded**: `01-Project-Build-Data-Dashboards.pdf` <br>
+  **File Uploaded**: `01-build-data-dashboards.md` <br>
 *(provided by **Udacity**: Business Analytics Nanodegree <br>
   data source: Youtube US Data)* <br><br>
