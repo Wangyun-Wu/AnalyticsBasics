@@ -1,6 +1,10 @@
 > Project Name: Build Data Dashboards <br>
 > Data Source: [Youtube US Data](https://www.kaggle.com/datasnaek/youtube-new/data) <br>
-> Description:
+> Description: This project aims to provide insignts in forms of visualization about the original dataset, recording information of the US Youtube Videos that were trending for at least one day from 17 November 2017 to 17 March 2018.<br>
+
+> *Note: the dataset used to create the visualization was cleaned in Excel previously:*<br>
+> + *The orginal trending data in forms of "YY.DD.MM" was transformed into "YYYY-MM-DD";*<br>
+> + *The "total" value here was the maximum value selected from the original dataset. E.g.Total views = Max.Views recorded on the dataset since the dataset recorded the accumulated data.*
 ### Question 1: Do types and hot tags of Youtube Top trending video differentiate between states?
 #### Tableau Link: [Youtube US Viewers' Favorites](https://public.tableau.com/profile/wangyun.wu#!/vizhome/YoutubeDataAnalysis_15941863358400/DashboardbyGeographicalSituation?publish=yes)
 #### Summary
