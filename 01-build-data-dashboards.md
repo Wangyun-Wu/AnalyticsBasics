@@ -1,6 +1,6 @@
-> Project Name: Build Data Dashboards <br>
-> Data Source: [Youtube US Data](https://www.kaggle.com/datasnaek/youtube-new/data) <br>
-> Description: This project aims to provide insignts in forms of visualization about the original dataset, recording information of the US Youtube Videos that were trending for at least one day from 17 November 2017 to 17 March 2018.<br>
+**Project Name**: Build Data Dashboards <br>
+**Data Source**: [Youtube US Data](https://www.kaggle.com/datasnaek/youtube-new/data) <br>
+**Description**: This project aims to provide insignts in forms of visualization about the original dataset, recording information of the US Youtube Videos that were trending for at least one day from 17 November 2017 to 17 March 2018.<br>
 
 > *Note: the dataset used to create the visualization was cleaned in Excel previously:*<br>
 > + *The orginal trending data in forms of "YY.DD.MM" was transformed into "YYYY-MM-DD";*<br>
