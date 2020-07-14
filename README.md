@@ -4,7 +4,7 @@ This repository records all data visualization projects.
 ### **Project 0: Interpret a data visualization** <br>
   **File Uploaded**: `Project-Interpret-a-Data-Visualization_WangyunWu.pdf` <br>
 *(provided by **Udacity**: Business Analytics Nanodegree <br>
-  data source: LinkedIn TopSkills 2016)* <br><br>
+  data source: [LinkedIn TopSkills 2016](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday))* <br><br>
 
 ### **Project 1: Build Data Dashboard** <br>
   **File Uploaded**: `01-build-data-dashboards.md` <br>
